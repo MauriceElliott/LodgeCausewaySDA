@@ -20,7 +20,7 @@ struct ExampleSite: Site {
     var url = URL(static: "https://www.example.com")
     var builtInIconsEnabled = true
 
-    var author = "John Appleseed"
+    var author = "Maurice Elliott"
 
     var homePage = Home()
     var layout = MainLayout()
