@@ -23,20 +23,20 @@ struct Contact: StaticPage {
 
             Group {
                 Section {
-                    Text("Conference Office")
+                    Text("Lodge Causeway Office")
                         .font(.title3)
                         .fontWeight(.semibold)
 
-                    Text("Address: [Conference Address]")
+                    Text("Address: [Lodge Causeway Address]")
                         .font(.body)
 
-                    Text("City, Province, Philippines")
+                    Text("Lodge Causeway Location")
                         .font(.body)
 
-                    Text("Phone: +63 XX XXXX XXXX")
+                    Text("Phone: [Phone Number]")
                         .font(.body)
 
-                    Text("Email: info@clc.adventist.ph")
+                    Text("Email: info@lodgecauseway.adventist.ph")
                         .font(.body)
                 }
                 .padding(20)
@@ -54,7 +54,7 @@ struct Contact: StaticPage {
                     Text("Submit your prayer requests")
                         .font(.body)
 
-                    Text("Email: prayer@clc.adventist.ph")
+                    Text("Email: prayer@lodgecauseway.adventist.ph")
                         .font(.body)
 
                     Text("Available 24/7")
@@ -75,7 +75,7 @@ struct Contact: StaticPage {
                     Text("Personal or group sessions")
                         .font(.body)
 
-                    Text("Email: biblestudy@clc.adventist.ph")
+                    Text("Email: biblestudy@lodgecauseway.adventist.ph")
                         .font(.body)
 
                     Text("Online and in-person options")
@@ -126,7 +126,7 @@ struct Contact: StaticPage {
                 .font(.body)
 
             Text(
-                "For a complete list of conference officers and department directors, please contact our office."
+                "For more information about our leadership team and contact details, please contact our office."
             )
             .font(.body)
         }

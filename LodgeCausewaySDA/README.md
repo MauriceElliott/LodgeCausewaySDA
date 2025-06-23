@@ -1,3 +1,3 @@
-# Seventh-day Adventist Church Website
+# Lodge Causeway - Seventh-day Adventist Church Website
 
-This is a static website built using Swift and the Ignite framework, designed to match the style and content of the CLC Adventist website (https://clc.adventist.ph).
+This is a static website built using Swift and the Ignite framework, designed for the Lodge Causeway Seventh-day Adventist Church community.

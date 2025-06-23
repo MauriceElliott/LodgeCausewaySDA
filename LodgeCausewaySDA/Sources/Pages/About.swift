@@ -6,11 +6,11 @@ struct About: StaticPage {
 
     var body: some HTML {
         Section {
-            Text("About Central Luzon Conference")
+            Text("About Lodge Causeway")
                 .font(.title1)
                 .fontWeight(.bold)
 
-            Text("Serving the Adventist community in Central Luzon, Philippines")
+            Text("Serving the Adventist community in Lodge Causeway")
                 .font(.title2)
         }
         .padding(.vertical, 80)
@@ -92,12 +92,12 @@ struct About: StaticPage {
             )
             .font(.body)
 
-            Text("Central Luzon Conference")
+            Text("Lodge Causeway")
                 .font(.title3)
                 .fontWeight(.semibold)
 
             Text(
-                "The Central Luzon Conference serves the Adventist community across the central provinces of Luzon, Philippines. We are committed to spreading the gospel message and serving our local communities."
+                "Lodge Causeway serves the Adventist community in our local area. We are committed to spreading the gospel message and serving our local communities."
             )
             .font(.body)
         }
@@ -110,7 +110,7 @@ struct About: StaticPage {
                 .fontWeight(.bold)
 
             Text(
-                "Our dedicated leaders work tirelessly to serve our church family and communities throughout Central Luzon."
+                "Our dedicated leaders work tirelessly to serve our church family and communities throughout Lodge Causeway."
             )
             .font(.title3)
 

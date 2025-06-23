@@ -1,6 +1,6 @@
-# Required Images for Central Luzon Conference Website
+# Required Images for Lodge Causeway Website
 
-This directory should contain the following images for the website to display properly:
+This directory should contain the following images for the Lodge Causeway website to display properly:
 
 ## Logo and Branding
 
@@ -66,4 +66,4 @@ Until actual images are provided, you can use:
 
 ## Copyright Notice
 
-Ensure all images used have proper licensing and attribution if required.
+Ensure all images used have proper licensing and attribution if required for the Lodge Causeway website.

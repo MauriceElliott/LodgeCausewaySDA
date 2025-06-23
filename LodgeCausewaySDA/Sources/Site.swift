@@ -17,9 +17,10 @@ struct IgniteWebsite {
 struct ExampleSite: Site {
     var name = "Lodge Causeway"
     var titleSuffix = " – Seventh-day Adventist Church"
+    var url = URL(static: "https://lodgecauseway.adventist.ph")
     var builtInIconsEnabled = true
 
-    var author = "Maurice Elliott"
+    var author = "Lodge Causeway"
 
     var homePage = Home()
     var staticPages: [any StaticPage] = [About(), Contact()]

@@ -6,7 +6,7 @@ struct Home: StaticPage {
 
     var body: some HTML {
         Section {
-            Text("Central Luzon Conference")
+            Text("Lodge Causeway")
                 .font(.title1)
                 .fontWeight(.bold)
 

@@ -6,7 +6,7 @@ struct MainLayout: Layout {
         Body {
             // Header
             Section {
-                Text("Central Luzon Conference")
+                Text("Lodge Causeway")
                     .font(.title2)
                     .fontWeight(.bold)
 
@@ -49,7 +49,7 @@ struct MainLayout: Layout {
                         .padding(.horizontal, 8)
                 }
 
-                Text("© 2025 Central Luzon Conference")
+                Text("© 2025 Lodge Causeway")
                     .font(.body)
 
                 Text("Seventh-day Adventist Church")
