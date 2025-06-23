@@ -15,12 +15,11 @@ struct IgniteWebsite {
 }
 
 struct ExampleSite: Site {
-    var name = "Central Luzon Conference"
+    var name = "Lodge Causeway"
     var titleSuffix = " – Seventh-day Adventist Church"
-    var url = URL(static: "https://clc.adventist.ph")
     var builtInIconsEnabled = true
 
-    var author = "Central Luzon Conference"
+    var author = "Maurice Elliott"
 
     var homePage = Home()
     var staticPages: [any StaticPage] = [About(), Contact()]
