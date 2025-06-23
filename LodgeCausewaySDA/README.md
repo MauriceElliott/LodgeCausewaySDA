@@ -1,5 +1,3 @@
-# IgniteStarter
+# Seventh-day Adventist Church Website
 
-This repository contains a starter project built using the [Ignite static site generator](https://github.com/twostraws/Ignite) – it includes just enough to get you going, so you should refer to the [IgniteSamples](https://github.com/twostraws/IgniteSamples) repository for detailed code samples.
-
-You'll find small text file in each folder explaining what that folder does. Once you're happy with that, you should delete those files.
+This is a static website built using Swift and the Ignite framework, designed to match the style and content of the CLC Adventist website (https://clc.adventist.ph).

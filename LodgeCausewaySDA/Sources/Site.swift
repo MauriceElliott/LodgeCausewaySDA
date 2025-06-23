@@ -14,15 +14,16 @@ struct IgniteWebsite {
     }
 }
 
-struct ExampleSite: Site {    
-    var name = "Hello World"
-    var titleSuffix = " – My Awesome Site"
-    var url = URL(static: "https://www.example.com")
+struct ExampleSite: Site {
+    var name = "Central Luzon Conference"
+    var titleSuffix = " – Seventh-day Adventist Church"
+    var url = URL(static: "https://clc.adventist.ph")
     var builtInIconsEnabled = true
 
-    var author = "Maurice Elliott"
+    var author = "Central Luzon Conference"
 
     var homePage = Home()
+    var staticPages: [any StaticPage] = [About(), Contact()]
     var layout = MainLayout()
     var articlePages: [any ArticlePage] = [MainArticle()]
 
